@@ -1,0 +1,19 @@
+.choise{
+    border: 1px solid black;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    background-color: lightgray;
+    top: 200px;
+    left: 200px;
+    overflow: hidden;
+    border-radius: 30%;
+}
+.slide{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    top: 0px;
+    left: 100px;
+}
